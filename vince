@@ -8,11 +8,15 @@
 "developer": "blacksuan19",
 "developer_url": "https:\/\/t.me\/blacksuan19",
 "forum_url": "https:\/\/forum.xda-developers.com\/redmi-note-5\/development\/rom-havocos-t3807696",
-"changelog": "",
-"filename":"Havoc-OS-v2.2-20190224-vince-Official.zip",
-"build_date":"20190226-0000",
-"filesize":"623994089",
-"md5":"8b493b7954117be7f1a98b3b1adfb3e0",
-"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/vince\/Havoc-OS-v2.2-20190224-vince-Official.zip\/download",
+"changelog": "remove advanced controls
+              Implement CAF based FM radio(fully working)
+              Cleanup init
+              Update configs
+              general dt cleaup",
+"filename":"Havoc-OS-v2.3-20190308-vince-Official.zip",
+"build_date":"1552040387",
+"filesize":"606902256",
+"md5":"7ebbd352ccfa1149ee0bf7f014705ddb",
+"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/vince\/Havoc-OS-v2.3-20190308-vince-Official.zip\/download",
 "error":true
 }
