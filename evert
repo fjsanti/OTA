@@ -8,11 +8,11 @@
 "developer": "Jose Santiago aka fjsanti",
 "developer_url": "https:\/\/t.me\/fjsanti",
 "forum_url": "https:\/\/forum.xda-developers.com\/g6-plus\/development\/rom-havoc-t3895300",
-"changelog": "update kernel sources, add FM support (not working at now, import missed audio blobs",
-"filename":"Havoc-OS-v2.3-20190307-evert-Official.zip",
-"build_date":"20190307-0000",
-"filesize":"565446317",
-"md5":"bcedab5037c769eb6103c9fdeee1f019",
-"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/evert\/Havoc-OS-v2.3-20190307-evert-Official.zip\/download",
+"changelog": "revert fm, there no work yet. Remaping of FP as long press to turn off screen",
+"filename":"Havoc-OS-v2.3-20190312-evert-Official.zip",
+"build_date":"20190312-0000",
+"filesize":"565779048",
+"md5":"651e2c5b3e8af7dce0991fee6423dc8d",
+"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/evert\/Havoc-OS-v2.3-20190312-evert-Official.zip\/download",
 "error":true
 }
